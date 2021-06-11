@@ -1,0 +1,14 @@
+DOMAIN,apps.apple.com
+DOMAIN,download.developer.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,mzstatic.com
+PROCESS-NAME,com.apple.dt.Xcode.sourcecontrol.Git
+PROCESS-NAME,storedownloadd
+USER-AGENT,com.apple.appstored*
