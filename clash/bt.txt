@@ -5,7 +5,9 @@ payload:
  - PROCESS-NAME,NetTransport
  - PROCESS-NAME,Thunder
  - PROCESS-NAME,Transmission
+ - PROCESS-NAME,UUBooster,Special
  - PROCESS-NAME,WebTorrent
+ - PROCESS-NAME,WebTorrent Helper,Special
  - PROCESS-NAME,aria2c
  - PROCESS-NAME,clash
  - PROCESS-NAME,fdm
