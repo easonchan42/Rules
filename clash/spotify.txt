@@ -1,0 +1,4 @@
+payload:
+ - PROCESS-NAME,Spotify
+ - DOMAIN-SUFFIX,scdn.co
+ - DOMAIN-SUFFIX,spotify.com
